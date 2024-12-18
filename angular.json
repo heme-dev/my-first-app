@@ -73,6 +73,9 @@
             },
             "development": {
               "buildTarget": "my-first-app:build:development"
+            },
+            "options": {
+              "port": 4201
             }
           },
           "defaultConfiguration": "development"
@@ -103,5 +106,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "068977f4-7c26-403c-ab72-ff632d1ed28d"
   }
 }
